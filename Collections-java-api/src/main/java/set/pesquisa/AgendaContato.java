@@ -47,7 +47,7 @@ public class AgendaContato {
 		contatos.adicionarContato("Jardel", 1234);
 		contatos.adicionarContato("Jamille", 1235);
 		contatos.adicionarContato("Chagas", 987);
-		contatos.adicionarContato("Jessica", 0);
+		contatos.adicionarContato("Diego", 0);
 		contatos.adicionarContato("Diego", 456);
 		contatos.exibirContato();
 		System.out.println(contatos.pesquisarPorNome("Jardel"));
